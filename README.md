@@ -14,7 +14,7 @@
 
 1. Склонуйте репозиторій:
 
-    [GitHub](https://github.com/your-username/steganography_project.git)
+    [GitHub](https://github.com/Oleksandr-star/steganography_project.git)
 
 2. Перейдіть до директорії проекту:
 
