@@ -21,7 +21,7 @@ def embed_message(image_path, message):
         steg_image_path = os.path.join("images", steg_image_name)
         
         encoded_image = lsb.hide(image_path, message)
-        encoded_image.save(steg_image_path)  # Зберігаємо стегоконтейнер
+        encoded_image.save(steg_image_path)
 
         print(f"Повідомлення вбудовано успішно в зображення: {steg_image_path}")
     
